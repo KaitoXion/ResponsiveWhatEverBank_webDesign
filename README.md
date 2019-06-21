@@ -1,2 +1,3 @@
 # ResponsiveWhatEverBank_webDesign
-Another front end responsive design. whatEverBank with custom animation
+Another front end responsive design. whatEverBank with custom animation. Vue.js platform.
+
