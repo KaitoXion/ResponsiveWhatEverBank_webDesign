@@ -1,4 +1,4 @@
-# ResponsiveWhatEverBank_webDesign
+# ResponsiveWhatEverBank_webDesign (SinglePageUI)
 Another front end responsive design. whatEverBank with custom animation. Vue.js platform.
 <br><br>
 Below are the screenshots. If you want a video for any of the project; PM me or let me know.
